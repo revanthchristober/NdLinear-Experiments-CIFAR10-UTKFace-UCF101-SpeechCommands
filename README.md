@@ -59,6 +59,9 @@ ndlinear_project/
 │   └── utils/                 # Shared utility functions
 │       ├── __init__.py
 │       └── helpers.py         # e.g., count_parameters(), get_device()
+|   └──notebook
+|       └── NdLinear_Experiements.ipynb # Notebook having detailed experiements
+|
 ├── main.py                    # Main entry point to select and run experiments
 ├── requirements.txt           # Python dependencies
 ├── checkpoints/               # Default directory for saving model checkpoints (created automatically)
