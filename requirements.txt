@@ -1,0 +1,13 @@
+# requirements.txt
+torch
+torchvision
+torchaudio
+ndlinear          # Assuming this is pip installable as shown
+scikit-learn
+mlflow
+opencv-python-headless # Use headless unless GUI needed
+numpy
+av
+tqdm
+matplotlib
+seaborn
